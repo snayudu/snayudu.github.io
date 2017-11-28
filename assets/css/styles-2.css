@@ -11,7 +11,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: #f5f5f5;
+  background: #8b0000;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #4CAC9D;
+  background: rgb(57, 70, 67);
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #4CAC9D;
+  background: rgb(129, 8, 8);
   position: absolute;
   right: 0;
   width: 240px;
@@ -161,7 +161,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #35776d;
+  color: #630101;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
